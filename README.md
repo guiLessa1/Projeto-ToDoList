@@ -1,2 +1,5 @@
 # Projeto ToDoList
- ToDoList em C#
+ ToDoList feito em C# via Console
+
+
+ 
