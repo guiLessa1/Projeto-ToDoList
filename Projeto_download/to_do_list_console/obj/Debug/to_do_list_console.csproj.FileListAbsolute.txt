@@ -1,0 +1,15 @@
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\bin\Debug\to_do_list_console.exe.config
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\bin\Debug\to_do_list_console.exe
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\bin\Debug\to_do_list_console.pdb
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.csproj.AssemblyReference.cache
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.csproj.CoreCompileInputs.cache
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.exe
+C:\Users\Lessa\Documents\Projetos\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.pdb
+D:\unisanta\to_do_list_console\to_do_list_console\bin\Debug\to_do_list_console.exe.config
+D:\unisanta\to_do_list_console\to_do_list_console\bin\Debug\to_do_list_console.exe
+D:\unisanta\to_do_list_console\to_do_list_console\bin\Debug\to_do_list_console.pdb
+D:\unisanta\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.csproj.AssemblyReference.cache
+D:\unisanta\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.csproj.SuggestedBindingRedirects.cache
+D:\unisanta\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.csproj.CoreCompileInputs.cache
+D:\unisanta\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.exe
+D:\unisanta\to_do_list_console\to_do_list_console\obj\Debug\to_do_list_console.pdb
